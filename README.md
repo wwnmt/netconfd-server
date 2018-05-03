@@ -1,6 +1,5 @@
 # netconfd 
 
-============
 
 netconfd is a NETCONF server and it enables device provisioning through
 NETCONF protocol.
