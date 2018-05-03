@@ -1,10 +1,11 @@
 netconfd
-extend freenetconfd https://github.com/freenetconf/freenetconfd.git
+
 ============
 
 netconfd is a NETCONF server and it enables device provisioning through
 NETCONF protocol.
 
+- extend freenetconfd https://github.com/freenetconf/freenetconfd.git
 - written in C
 
 ### dependencies
