@@ -1,0 +1,7 @@
+#
+# netconfd uci configuration
+#
+
+config netconfd
+	option addr '127.0.0.1'
+	option port '1831'
